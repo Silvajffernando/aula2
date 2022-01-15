@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ManipulaçaoTexto\bin\Debug\netcoreapp3.1\ManipulaçaoTexto.exe
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ManipulaçaoTexto\bin\Debug\netcoreapp3.1\ManipulaçaoTexto.deps.json
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ManipulaçaoTexto\bin\Debug\netcoreapp3.1\ManipulaçaoTexto.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ManipulaçaoTexto\bin\Debug\netcoreapp3.1\ManipulaçaoTexto.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ManipulaçaoTexto\bin\Debug\netcoreapp3.1\ManipulaçaoTexto.dll
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ManipulaçaoTexto\bin\Debug\netcoreapp3.1\ManipulaçaoTexto.pdb
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ManipulaçaoTexto\obj\Debug\netcoreapp3.1\ManipulaçaoTexto.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ManipulaçaoTexto\obj\Debug\netcoreapp3.1\ManipulaçaoTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ManipulaçaoTexto\obj\Debug\netcoreapp3.1\ManipulaçaoTexto.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ManipulaçaoTexto\obj\Debug\netcoreapp3.1\ManipulaçaoTexto.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ManipulaçaoTexto\obj\Debug\netcoreapp3.1\ManipulaçaoTexto.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ManipulaçaoTexto\obj\Debug\netcoreapp3.1\ManipulaçaoTexto.dll
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ManipulaçaoTexto\obj\Debug\netcoreapp3.1\ManipulaçaoTexto.pdb
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ManipulaçaoTexto\obj\Debug\netcoreapp3.1\ManipulaçaoTexto.genruntimeconfig.cache

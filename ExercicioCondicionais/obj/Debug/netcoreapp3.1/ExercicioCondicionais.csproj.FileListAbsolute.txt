@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ExercicioCondicionais\bin\Debug\netcoreapp3.1\ExercicioCondicionais.exe
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ExercicioCondicionais\bin\Debug\netcoreapp3.1\ExercicioCondicionais.deps.json
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ExercicioCondicionais\bin\Debug\netcoreapp3.1\ExercicioCondicionais.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ExercicioCondicionais\bin\Debug\netcoreapp3.1\ExercicioCondicionais.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ExercicioCondicionais\bin\Debug\netcoreapp3.1\ExercicioCondicionais.dll
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ExercicioCondicionais\bin\Debug\netcoreapp3.1\ExercicioCondicionais.pdb
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ExercicioCondicionais\obj\Debug\netcoreapp3.1\ExercicioCondicionais.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ExercicioCondicionais\obj\Debug\netcoreapp3.1\ExercicioCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ExercicioCondicionais\obj\Debug\netcoreapp3.1\ExercicioCondicionais.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ExercicioCondicionais\obj\Debug\netcoreapp3.1\ExercicioCondicionais.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ExercicioCondicionais\obj\Debug\netcoreapp3.1\ExercicioCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ExercicioCondicionais\obj\Debug\netcoreapp3.1\ExercicioCondicionais.dll
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ExercicioCondicionais\obj\Debug\netcoreapp3.1\ExercicioCondicionais.pdb
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\ExercicioCondicionais\obj\Debug\netcoreapp3.1\ExercicioCondicionais.genruntimeconfig.cache

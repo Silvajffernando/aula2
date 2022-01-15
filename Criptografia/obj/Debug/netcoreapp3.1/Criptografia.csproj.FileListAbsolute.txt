@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.exe
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.deps.json
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.dll
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.pdb
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.dll
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.pdb
+C:\Users\LENOVO\Desktop\C#\Aula02_old\aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.genruntimeconfig.cache

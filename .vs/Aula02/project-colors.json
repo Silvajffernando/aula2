@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4983ebd8-9c95-4d87-a618-d43bd095545d": {
+      "ProjectGuid": "4983ebd8-9c95-4d87-a618-d43bd095545d",
+      "DisplayName": "Criptografia",
+      "ColorIndex": 0
+    },
+    "7edfc366-69d8-4cab-8f9a-b48976dcc7d5": {
+      "ProjectGuid": "7edfc366-69d8-4cab-8f9a-b48976dcc7d5",
+      "DisplayName": "LaçoRepetição",
+      "ColorIndex": 1
+    },
+    "376eca8c-cfc0-4842-9d35-077a7c8a4c5a": {
+      "ProjectGuid": "376eca8c-cfc0-4842-9d35-077a7c8a4c5a",
+      "DisplayName": "ExercicioCondicionais",
+      "ColorIndex": 2
+    },
+    "9d5308fc-78c1-438c-8533-15562c65af65": {
+      "ProjectGuid": "9d5308fc-78c1-438c-8533-15562c65af65",
+      "DisplayName": "ManipulaçaoTexto",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
